@@ -96,3 +96,4 @@ Thanks to SCdF for a bug fix.
 Thanks to MaximeKjaer for adding the ability to tag users.
 
 Thanks to c17r for a fix to the new comment highlighting.
+# HNES
